@@ -38,7 +38,6 @@ endforeach()
 project(unity
     VERSION     ${UNITY_HEADER_VERSION_MAJOR}.${UNITY_HEADER_VERSION_MINOR}.${UNITY_HEADER_VERSION_BUILD}
     LANGUAGES   C
-    DESCRIPTION "C Unit testing framework."
 )
 
 # Options to Build With Extras -------------------------------------------------
